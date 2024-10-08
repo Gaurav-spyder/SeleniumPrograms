@@ -1,4 +1,4 @@
-package guviTask;
+package guviTask.Selenium_Day1Task;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
