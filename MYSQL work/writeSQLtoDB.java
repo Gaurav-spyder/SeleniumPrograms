@@ -11,7 +11,7 @@ public class writeSQLtoDB {
 	public static void main(String[] args) throws SQLException {
 		String URL = "jdbc:mysql://localhost:3306/guvi";
 		String uname = "root";
-		String psw="Sija@123";
+		String psw="Hello123";
 
 		//creating connection to database
 		
